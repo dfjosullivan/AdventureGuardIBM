@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>placeHolderImage</key>
+	<string>PlaceHolderImage</string>
+	<key>noPhotoImage</key>
+	<string>NoPhotoImage</string>
+	<key>backgroundImage</key>
+	<string>ApplicationBackground695.png</string>
+	<key>applicationBarBackgroundColor</key>
+	<string>#3f3d44</string>
+	<key>applicationBarTextColor</key>
+	<string>#928d8d</string>
+	<key>foregroundColor</key>
+	<string>#ffffff</string>
+	<key>backgroundColor</key>
+	<string>#3f3d44</string>
+	<key>accentColor</key>
+	<string>#ffffff</string>
+	<key>fontFamily</key>
+	<string>Helvetica Neue</string>
+	<key>fontSize</key>
+	<integer>14</integer>
+	<key>fontSizeSmall</key>
+	<integer>12</integer>
+	<key>fontSizeLarge</key>
+	<integer>18</integer>
+	<key>tableViewCellHeightMin</key>
+	<integer>44</integer>
+</dict>
+</plist>

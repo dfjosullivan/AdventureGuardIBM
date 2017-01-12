@@ -1,0 +1,6 @@
+framework module Pods_AdventureGuard {
+  umbrella header "Pods-AdventureGuard-umbrella.h"
+
+  export *
+  module * { export * }
+}

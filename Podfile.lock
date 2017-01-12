@@ -1,0 +1,91 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.2.0)
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - CDTDatastore (1.1.1):
+    - CDTDatastore/standard (= 1.1.1)
+  - CDTDatastore/common-dependencies (1.1.1):
+    - CDTDatastore/no-arc
+    - CocoaLumberjack (~> 2.0)
+  - CDTDatastore/no-arc (1.1.1)
+  - CDTDatastore/standard (1.1.1):
+    - CDTDatastore/common-dependencies
+    - FMDB (= 2.6)
+  - CocoaLumberjack (2.4.0):
+    - CocoaLumberjack/Default (= 2.4.0)
+    - CocoaLumberjack/Extensions (= 2.4.0)
+  - CocoaLumberjack/Core (2.4.0)
+  - CocoaLumberjack/Default (2.4.0):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.4.0):
+    - CocoaLumberjack/Default
+  - CocoaSecurity (1.2.4)
+  - Colours (5.13.0):
+    - Colours/ObjC (= 5.13.0)
+  - Colours/ObjC (5.13.0)
+  - CorePlot (2.0)
+  - DCKeyValueObjectMapping (1.5)
+  - ECSlidingViewController (2.0.3)
+  - FMDB (2.6):
+    - FMDB/standard (= 2.6)
+  - FMDB/standard (2.6)
+  - IBMMobileFirstPlatformFoundation (8.0.2016070718)
+  - NSUserDefaults-AESEncryptor (0.0.4):
+    - CocoaSecurity (~> 1.2.2)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SVProgressHUD (2.0.4)
+  - SVPullToRefresh (0.4.1)
+  - UIActivityIndicator-for-SDWebImage (1.2):
+    - SDWebImage (~> 3.7)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0 (~> 2.2.0)
+  - AFNetworking (~> 3.1.0)
+  - CDTDatastore (~> 1.1.0)
+  - Colours (~> 5.13.0)
+  - CorePlot (~> 2.0.0)
+  - DCKeyValueObjectMapping (~> 1.5.0)
+  - ECSlidingViewController (~> 2.0.0)
+  - IBMMobileFirstPlatformFoundation (~> 8.0.0)
+  - NSUserDefaults-AESEncryptor (~> 0.0.0)
+  - SDWebImage (~> 3.8.0)
+  - SVProgressHUD (~> 2.0.0)
+  - SVPullToRefresh (~> 0.4.0)
+  - UIActivityIndicator-for-SDWebImage (~> 1.2.0)
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: d11a4c12c6aaf704b8a3f56d179198c99f3e41e6
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CDTDatastore: dcbc597b3352602556e003d4a8d1cc93c1c119ce
+  CocoaLumberjack: aa9dcab71bdf9eaf2a63bbd9ddc87863efe45457
+  CocoaSecurity: d288a6f87e0f363823d2cb83e753814a6944f71a
+  Colours: f24220c38f13deac88612667e9b4a7fb96b871d4
+  CorePlot: b7f422ad363f2b0e48152471d6da45ce232eb8c6
+  DCKeyValueObjectMapping: c2eb5a6529da100b2e49ef6a599663578051f077
+  ECSlidingViewController: 6485c14f23b4487e9946535421ca8f111f86cc53
+  FMDB: c1968bab3ab0aed38f66cb778ae1e7fa9a652b6e
+  IBMMobileFirstPlatformFoundation: adfc8b080dcb484bc49d37a97863b706f0fb31cb
+  NSUserDefaults-AESEncryptor: da02cfef056f1e18ebe2748767915f08b274c9c5
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SVProgressHUD: bfde85ed6c573ea802b9cb37894ed9b629034f1b
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  UIActivityIndicator-for-SDWebImage: 7bf7ebbf0ed1747dedc0d6e949c4603a6d0f9e0c
+
+PODFILE CHECKSUM: f0ea14846e95211b1c974999f8541e30d1fbedd8
+
+COCOAPODS: 1.1.1
